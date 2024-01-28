@@ -1,11 +1,11 @@
 @font-face {
   font-family: rm;
-  src: url(/NBInternationalProBoo.ttf);
+  src: url(/cybergreen.org/NBInternationalProBoo.ttf);
 }
 
 @font-face {
   font-family: rf;
-  src: url(/Rejouice-Headline.ttf);
+  src: url(/cybergreen.org/Rejouice-Headline.ttf);
 }
 
 * {
@@ -132,7 +132,7 @@ nav h1 {
 .page-1 {
   height: 80vh;
   width: 100%;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.9),rgba(0, 0, 0, 0.9)),url(/hero.png);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.9),rgba(0, 0, 0, 0.9)),url(/cybergreen.org/hero.png);
   background-size: cover;
   background-position: top;
   display: flex;
